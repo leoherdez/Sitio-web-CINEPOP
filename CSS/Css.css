@@ -132,16 +132,57 @@ h3{
     transition: 0.5s;
   }
 
+#Spam{
+    background-color: #1a1a1a;
+    color: #ffffffcf;
+    padding: 40px 12%;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    position: relative;
+}
+
+.info{
+    display: inline-block;
+    width: 400px;
+    text-align: justify;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+
+.info h2{
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #ffff;
+    
+}
+
+.info div.boton{
+    margin-top: 10%;
+}
+
+.info a{
+    margin-top: 24px;
+    color: #ffffffcf;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: #ffffffcf solid 1px;
+}
+
+.saga{
+    display: inline-block;
+    margin-left: 45%;
+    width: 500px;
+}
+
+.saga img{
+    height: 350px;
+    width: 600px;
+}
+
+
+
 #Pie_pagina{
     background-color: #1a1a1a;
 
 }
 
-.Menu {
-    float: left;
-    font-size: 16px;
-    color: #ffffffc9;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
