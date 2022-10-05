@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2? family= Reem+Kufi+Fun:wght@400;500;600;700 & display=swap');
+=======
+@import url();
+
+>>>>>>> 50422b35bca9a84fe9ecd424ad6265c21210e296
 
 *, *::before, *::after {
     box-sizing: border-box;
@@ -12,7 +17,10 @@ html{
 #Encabezado{
     height: 75px;
     width: 100%;
+<<<<<<< HEAD
     
+=======
+>>>>>>> 50422b35bca9a84fe9ecd424ad6265c21210e296
 }
 #BarraMenu{
     display: flex;
@@ -27,6 +35,7 @@ html{
     width: 200px;
     height: 50px;
 }
+<<<<<<< HEAD
 
 #Menu{
     display:flex;
@@ -135,3 +144,13 @@ h3{
     background-color: #1a1a1a;
 
 }
+=======
+.Menu {
+    float: left;
+    font-size: 16px;
+    color: #ffffffc9;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+>>>>>>> 50422b35bca9a84fe9ecd424ad6265c21210e296
